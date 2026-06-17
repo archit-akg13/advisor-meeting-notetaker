@@ -1,0 +1,33 @@
+SAMPLE MEETING TRANSCRIPT â Quarterly Portfolio Rebalance
+Duration: ~5 minutes
+Participants: Marcus Williams (Advisor), David Park (Client)
+
+---
+
+Marcus: David, thanks for hopping on. I wanted to go over your Q1 numbers and talk about some adjustments I'm recommending.
+
+David: Sure, I saw the statement. Looks like we're up overall?
+
+Marcus: Yes, the portfolio is up 8.3% year-to-date, which is great. But that growth has created some drift from your target allocation. Your U.S. equities are now at 45% of the portfolio, up from your target of 35%. That's mostly driven by the tech run-up.
+
+David: I mean, if tech is winning, why not let it ride?
+
+Marcus: I get the instinct, but that concentration risk is real. When we did your risk assessment, you were comfortable with moderate volatility but not heavy drawdowns. Having 45% in U.S. equities with a tech overweight exposes you to exactly that. Remember 2022?Tech dropped 30%.
+
+David: Point taken. So what are you thinking?
+
+Marcus: I'd like to trim the U.S. equity position back to 35% and redirect that 10% into international developed markets â specifically the Vanguard FTSE Developed Markets ETF. European and Japanese equities are trading at much lower valuations right now. It gives you diversification without reducing your overall equity exposure.
+
+David: That makes sense. What's the tax impact of selling some of the winners?
+
+Marcus: Good question. Some of the tech positions have significant gains. I'll coordinate with your CPA before we execute anything. We might want to spread the rebalancing over two quarters to manage the capital gains exposure.
+
+David: Perfect. Let's do that. Anything else?
+
+Marcus: One more thing â your emergency fund is sitting in a savings account earning 0.5%. I'd recommend moving it to a high-yield money market fund that's currently paying around 4.8%. No risk increase, just better yield.
+
+David: Why didn't we do that sooner?
+
+Marcus: Fair question â rates only got this attractive recently. I'll send you the paperwork today.
+
+David: Sounds good. Thanks, Marcus.
